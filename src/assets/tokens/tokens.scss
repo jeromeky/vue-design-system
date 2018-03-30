@@ -1,3 +1,4 @@
+
 $color-ucla-gold: rgb(255, 186, 10);
 $color-ucla-gold-darker: rgb(179, 128, 0);
 $color-vermilion-lighter: rgb(244, 151, 138);
@@ -25,8 +26,8 @@ $font-size-large: 24px;
 $font-size-base: 16px;
 $font-size-small: 13px;
 $font-size-x-small: 11px;
-$font-family-heading: "Fira Sans", Helvetica, Arial, sans-serif;
-$font-family-text: "Fira Sans", Helvetica, Arial, sans-serif;
+$font-family-heading: 'Fira Sans', Helvetica, Arial, sans-serif;
+$font-family-text: 'Fira Sans', Helvetica, Arial, sans-serif;
 $font-weight-bold: 700;
 $font-weight-semi-bold: 600;
 $font-weight-regular: 400;
@@ -40,8 +41,8 @@ $z-index-modal: 9999;
 $z-index-sticky: 100;
 $media-query-medium: (min-width: 768px);
 $media-query-large: (min-width: 1024px);
-$box-shadow-small: 0 0 0 1px rgba(92, 106, 196, 0.1);
-$box-shadow-small-inset: inset 0 0 0 1px rgba(0, 0, 0, 0.05);
+$box-shadow-small: 0 0 0 1px rgba(92,106,196,.1);
+$box-shadow-small-inset: inset 0 0 0 1px rgba(0,0,0,.05);
 $letter-spacing-x-large: 2px;
 $letter-spacing-large: 1px;
 $letter-spacing-base: 0;
